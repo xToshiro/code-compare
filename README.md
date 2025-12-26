@@ -1,4 +1,4 @@
-# Code Comparator Pro 🔍
+# Code Comparator 🔍
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Python](https://img.shields.io/badge/Python-3.x-yellow.svg)](https://www.python.org/)
@@ -10,7 +10,7 @@
 <a name="english"></a>
 ## 🇺🇸 English
 
-**Code Comparator Pro** is a robust desktop tool developed in Python for source code comparison (Diff Tool), visualization, and statistical analysis. Designed to be lightweight, dependency-free, and highly functional.
+**Code Comparator** is a robust desktop tool developed in Python for source code comparison (Diff Tool), visualization, and statistical analysis. Designed to be lightweight, dependency-free, and highly functional.
 
 > **Developed for:** Jairo Brito  
 > **Version:** 2.3
@@ -56,7 +56,7 @@ python code-compare.py
 <a name="português"></a>
 ## 🇧🇷 Português
 
-**Code Comparator Pro** é uma ferramenta desktop robusta desenvolvida em Python para comparação de código fonte (Diff Tool), visualização de diferenças e análise estatística. Projetada para ser leve, sem dependências pesadas e altamente funcional.
+**Code Comparator** é uma ferramenta desktop robusta desenvolvida em Python para comparação de código fonte (Diff Tool), visualização de diferenças e análise estatística. Projetada para ser leve, sem dependências pesadas e altamente funcional.
 
 > **Desenvolvido para:**  Jairo Brito  
 > **Versão:** 2.3
